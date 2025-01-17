@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ISU-GRADE11-UNO-GAME.iml" filepath="$PROJECT_DIR$/.idea/ISU-GRADE11-UNO-GAME.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UNO-ISU-CODE/UNO-ISU-CODE.iml" filepath="$PROJECT_DIR$/UNO-ISU-CODE/UNO-ISU-CODE.iml" />
+    </modules>
+  </component>
+</project>
